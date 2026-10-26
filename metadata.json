@@ -1,0 +1,8 @@
+{
+  "name": "Power4 Ooredoo Internet Activation",
+  "description": "Ported React application for Ooredoo Algeria internet bundle and gamification rewards activation with multi-number support and OTP verification.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
